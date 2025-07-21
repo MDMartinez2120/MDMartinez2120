@@ -15,7 +15,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/matt-martinez2120/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/matt-martinez2120/)
 <!--
 **MDMartinez2120/MDMartinez2120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
